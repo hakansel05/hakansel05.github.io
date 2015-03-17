@@ -9,7 +9,7 @@ var bio = {
     "location" : "Ankara, TR"
     },
   "pic_url" : "images/hha.png",
-  "message" : "Hello World; I'm Just Code Brew!", 
+  "message" : "Hello World; I'm Just Brew Code!", 
   "skills" : [
     "Embedded System", "Software Development", "Linux"
   ]
