@@ -63,7 +63,7 @@ var work = {
       "curr_pos" : "Software Developer",
       "employer" : "Lider Technology",
       "year" : "Feb, 2012 - June, 2012",
-      "location" : "Ankara, TR",
+      "location" : "Eskisehir, TR",
       "description" : "Avionics, BeechCraft C90GTi CDU(Rockwell Collins FMS3000) software programmer, flight simulation."
     }
   ]
