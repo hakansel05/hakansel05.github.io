@@ -1,0 +1,11 @@
+{
+  "name": "H. Hakan Akansel Portfolio",
+  "description": "Just Intro for Hakansel",
+  "authors": [
+    "H. Hakan Akansel <hakansel05@gmail.com>"
+  ],
+  "version": "0.0.1",
+  "dependencies": {
+    "vide": "*"
+  }
+}
