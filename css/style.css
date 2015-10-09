@@ -118,7 +118,9 @@ header p {
     padding: 0;
     line-height: .65;
     font-size: 4em;
-    text-transform: uppercase;
+    font-family: Cambria, Georgia, serif;
+    font-style: italic;
+    /*text-transform: uppercase;*/
 }
 
 /* Nav */
